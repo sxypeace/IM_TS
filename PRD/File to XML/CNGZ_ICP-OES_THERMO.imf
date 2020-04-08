@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransformationData xmlns="http://tempuri.org/TransformationData.xsd">
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>1</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>FTX_TEMP_BYTESTNO</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION>FTX_TEMP_BYTESTNO</OUT_TEMPLATE_DESCRIPTION>
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>&lt;?xml version="1.0"?&gt;
+&lt;lims_results&gt;
+  &lt;result test_id="" result_name=""&gt;&lt;/result&gt;
+&lt;/lims_results&gt;</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>XML</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>2</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE>SCHEMA</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>3</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>FTX_TEMP_BYTESTNO</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION>FTX_TEMP_BYTESTNO</OUT_TEMPLATE_DESCRIPTION>
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>&lt;?xml version="1.0"?&gt;
+&lt;lims_results&gt;
+  &lt;result test_id="" result_name=""&gt;&lt;/result&gt;
+&lt;/lims_results&gt;</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>XML</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>4</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>CNGZ_ICP-OES_THERMO(2)</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>Sample Report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Author:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Published:,,,,,2019/3/15 16:52:28 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:10:17 ,,,,,,,,,,,Sample Type:,,,,,QC,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,1.0000,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,Check Value,,,Units,,,,Outcome,,,,,Flag Value,
+As1890,F,,13.36,,,,,,ug/L,,3.941,,,,,,29.50,,,,,,,10.00,,,Rel(%),,,,Fail High,,,,,20.00,
+Cd2288,,,8.369,,,,,,ug/L,,0.1120,,,,,,1.339,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+Co2388,,,9.124,,,,,,ug/L,,0.2797,,,,,,3.065,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+Cr2677,,,10.19,,,,,,ug/L,,0.2451,,,,,,2.405,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+Cu3247,F,,2.428,,,,,,ug/L,,2.324,,,,,,95.69,,,,,,,10.00,,,Rel(%),,,,Fail Low,,,,,-20.00,
+Ni2316,,,8.674,,,,,,ug/L,,0.1205,,,,,,1.389,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+Pb2203,,,8.581,,,,,,ug/L,,0.9433,,,,,,10.99,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+Sb2175,,,8.687,,,,,,ug/L,,3.230,,,,,,37.19,,,,,,,10.00,,,Rel(%),,,,Pass,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7226h,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:12:39 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9250,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,229.8,,,,,,ug/L,,56.21,,,,,,24.46,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-0.8910,,,,,,ug/L,,2.391,,,,,,268.4,,,,,,,,,,,,,,,,,,,,
+Co2388,,,9.623,,,,,,ug/L,,10.29,,,,,,106.9,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,123.8,,,,,,ug/L,,1.669,,,,,,1.349,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,658.7,,,,,,ug/L,,29.71,,,,,,4.511,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,67.04,,,,,,ug/L,,5.243,,,,,,7.820,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-28.95,,,,,,ug/L,,15.35,,,,,,53.01,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,82.06,,,,,,ug/L,,44.33,,,,,,54.02,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:15:01 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9200,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,-92.56,,,,,,ug/L,,90.27,,,,,,97.53,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-0.8545,,,,,,ug/L,,0.6614,,,,,,77.39,,,,,,,,,,,,,,,,,,,,
+Co2388,,,2.047,,,,,,ug/L,,1.370,,,,,,66.92,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,124.1,,,,,,ug/L,,7.576,,,,,,6.103,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,548.6,,,,,,ug/L,,13.00,,,,,,2.369,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,67.79,,,,,,ug/L,,3.314,,,,,,4.888,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-11.24,,,,,,ug/L,,19.33,,,,,,172.1,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,65.01,,,,,,ug/L,,37.81,,,,,,58.16,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72263t,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:17:24 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9700,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,19.55,,,,,,ug/L,,182.2,,,,,,932.2,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,1.046,,,,,,ug/L,,1.107,,,,,,105.8,,,,,,,,,,,,,,,,,,,,
+Co2388,,,7.258,,,,,,ug/L,,7.302,,,,,,100.6,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,127.2,,,,,,ug/L,,8.837,,,,,,6.947,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,121.6,,,,,,ug/L,,59.95,,,,,,49.30,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,96.72,,,,,,ug/L,,4.031,,,,,,4.168,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-11.46,,,,,,ug/L,,17.06,,,,,,148.9,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,111.3,,,,,,ug/L,,39.82,,,,,,35.78,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:19:46 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9650,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,60.48,,,,,,ug/L,,71.86,,,,,,118.8,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,1.914,,,,,,ug/L,,2.192,,,,,,114.5,,,,,,,,,,,,,,,,,,,,
+Co2388,,,6.038,,,,,,ug/L,,4.931,,,,,,81.68,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,128.9,,,,,,ug/L,,2.186,,,,,,1.696,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,122.2,,,,,,ug/L,,15.48,,,,,,12.66,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,95.77,,,,,,ug/L,,4.299,,,,,,4.489,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-15.86,,,,,,ug/L,,16.21,,,,,,102.2,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,120.1,,,,,,ug/L,,52.89,,,,,,44.03,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+H7226-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:22:09 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.8020,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,25.61,,,,,,ug/L,,46.50,,,,,,181.6,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-1.688,,,,,,ug/L,,2.992,,,,,,177.3,,,,,,,,,,,,,,,,,,,,
+Co2388,,,9.030,,,,,,ug/L,,3.713,,,,,,41.12,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,117.4,,,,,,ug/L,,5.423,,,,,,4.618,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,133.7,,,,,,ug/L,,51.44,,,,,,38.48,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,103.1,,,,,,ug/L,,2.944,,,,,,2.856,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-26.23,,,,,,ug/L,,8.617,,,,,,32.86,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,96.82,,,,,,ug/L,,23.88,,,,,,24.67,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:24:31 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.8020,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,71.00,,,,,,ug/L,,58.52,,,,,,82.41,,,,,,,,,,,,,,,,,,,,
+72266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:24:31 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.8020,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,0.05788,,,,,,ug/L,,2.368,,,,,,"4,092",,,,,,,,,,,,,,,,,,,,
+Co2388,,,0.6195,,,,,,ug/L,,6.583,,,,,,"1,063",,,,,,,,,,,,,,,,,,,,
+Cr2677,,,116.3,,,,,,ug/L,,2.197,,,,,,1.889,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,80.47,,,,,,ug/L,,46.56,,,,,,57.86,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,103.1,,,,,,ug/L,,1.580,,,,,,1.533,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-19.89,,,,,,ug/L,,7.646,,,,,,38.45,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,18.35,,,,,,ug/L,,13.01,,,,,,70.87,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:26:54 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9300,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,18.78,,,,,,ug/L,,32.28,,,,,,171.9,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-2.553,,,,,,ug/L,,0.3575,,,,,,14.00,,,,,,,,,,,,,,,,,,,,
+Co2388,,,13.06,,,,,,ug/L,,10.85,,,,,,83.04,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,116.9,,,,,,ug/L,,4.242,,,,,,3.630,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,41.18,,,,,,ug/L,,30.14,,,,,,73.20,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,51.56,,,,,,ug/L,,3.593,,,,,,6.968,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-31.11,,,,,,ug/L,,14.82,,,,,,47.63,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,384.3,,,,,,ug/L,,20.57,,,,,,5.354,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+H7226-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:29:16 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9300,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,33.61,,,,,,ug/L,,207.9,,,,,,618.4,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-1.702,,,,,,ug/L,,3.593,,,,,,211.1,,,,,,,,,,,,,,,,,,,,
+Co2388,,,6.334,,,,,,ug/L,,2.212,,,,,,34.92,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,116.9,,,,,,ug/L,,5.969,,,,,,5.105,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,33.54,,,,,,ug/L,,7.981,,,,,,23.80,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,52.69,,,,,,ug/L,,2.065,,,,,,3.919,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,-14.17,,,,,,ug/L,,4.105,,,,,,28.98,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,387.9,,,,,,ug/L,,41.86,,,,,,10.79,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+H7727-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:31:38 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9150,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+As1890,,,24.43,,,,,,ug/L,,68.71,,,,,,281.2,,,,,,,,,,,,,,,,,,,,
+Cd2288,,,-4.392,,,,,,ug/L,,1.651,,,,,,37.58,,,,,,,,,,,,,,,,,,,,
+H7727-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:31:38 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9150,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+Co2388,,,5.568,,,,,,ug/L,,13.40,,,,,,240.7,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,-4.259,,,,,,ug/L,,4.953,,,,,,116.3,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,-826.5,,,,,,ug/L,,74.08,,,,,,8.963,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,0.01970,,,,,,ug/L,,3.261,,,,,,"16,555",,,,,,,,,,,,,,,,,,,,
+Pb2203,,,2.593,,,,,,ug/L,,18.19,,,,,,701.4,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,28.91,,,,,,ug/L,,28.50,,,,,,98.59,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7727,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acquire Date:,,,2019/3/15 11:34:01 ,,,,,,,,,,,Sample Type:,,,,,Unknown,,,,,,,,,,,,,,,,,,
+Correction Factor:,,,,19.9150,,,,,SW:,1.0000,,NW:,1.0000,,,,IV:,,1.0000,,,,,FV:,1.0000,,,AF:,,1.0000,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Analyst Name:,,,,,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Method Name:,,,,,ECO-17593,,,,,,,,,,,,,,,,,Method Revision:,,,,,,346,,,,,,,,,
+Elem,Flags,,,,Avg,,,,Units,,Stddev,,,,,,%RSD,,,,,,,,,,,,,,,,,,,,
+V_2908,,,-42.30,,,,,,ug/L,,82.17,,,,,,194.3,,,,,,,,,,,,,,,,,,,,
+W_2397,,,-7.436,,,,,,ug/L,,2.441,,,,,,32.82,,,,,,,,,,,,,,,,,,,,
+Co2388,,,0.6728,,,,,,ug/L,,1.196,,,,,,177.7,,,,,,,,,,,,,,,,,,,,
+Cr2677,,,-8.775,,,,,,ug/L,,7.136,,,,,,81.32,,,,,,,,,,,,,,,,,,,,
+Cu3247,,,-822.5,,,,,,ug/L,,45.81,,,,,,5.570,,,,,,,,,,,,,,,,,,,,
+Ni2316,,,-0.9632,,,,,,ug/L,,4.120,,,,,,427.7,,,,,,,,,,,,,,,,,,,,
+Pb2203,,,4.320,,,,,,ug/L,,20.24,,,,,,468.4,,,,,,,,,,,,,,,,,,,,
+Sb2175,,,-14.16,,,,,,ug/L,,95.09,,,,,,671.7,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Color Legend,,,,,,,Pass/Unchecked,,,,,Internal Standard,,,,,,,,Check Fail,,,,,,Check Warn,,,,,,,,,,,
+Published:,,,2019/3/15 16:52:28 ,,,,,,,,,,,,,,,,,,,,,,,,ç¬¬ 4 é¡µï¼Œå…± 4 é¡µ,,,,,,,,,,
+</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>FILE</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>5</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE />
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>6</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE>SCHEMA</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>7</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE />
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>8</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE />
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <TRANSFORM>
+    <TRANSFORM_NAME>CNGZ_ICP-OES_THERMO</TRANSFORM_NAME>
+    <TRANSFORM_DESCRIPTION>RemoveChars(CompName,"_"). (RoyLi 20190614)</TRANSFORM_DESCRIPTION>
+    <TRANSFORM_TYPE>UTX</TRANSFORM_TYPE>
+    <TRANSFORM_COMPONENT_VERSION>3.0.0.0</TRANSFORM_COMPONENT_VERSION>
+    <TRANSFORM_ASSEMBLY_PATH />
+    <TRANSFORM_EOL>&lt;New Line&gt;</TRANSFORM_EOL>
+    <TRANSFORM_WORDSEPARATOR>&lt;Space&gt;</TRANSFORM_WORDSEPARATOR>
+    <TRANSFORM_XSLT1 />
+    <TRANSFORM_PREPROCESSINGSCRIPT />
+    <TRANSFORM_EOLFILEPROCESSING>ON</TRANSFORM_EOLFILEPROCESSING>
+    <TRANSFORM_RUNAWAYCHECK>ON</TRANSFORM_RUNAWAYCHECK>
+    <TRANSFORM_MAXCMDS>10000000</TRANSFORM_MAXCMDS>
+    <TRANSFORM_STRIPNAMESPACE>ON</TRANSFORM_STRIPNAMESPACE>
+  </TRANSFORM>
+  <MAP_FIELD>
+    <MAP_FIELD_ID>1</MAP_FIELD_ID>
+    <MAP_FIELD_NAME>Main Script</MAP_FIELD_NAME>
+    <MAP_FIELD_DESCRIPTION>Main Script</MAP_FIELD_DESCRIPTION>
+    <MAP_FIELD_ORDER>1</MAP_FIELD_ORDER>
+    <MAP_FIELD_INPUT_PATH />
+    <MAP_FIELD_OUTPUT_PATH />
+    <MAP_FIELD_XML_GROUP />
+    <MAP_FIELD_TAG />
+    <MAP_FIELD_INPUT_DISPLAY_PATH />
+    <MAP_FIELD_OUTPUT_DISPLAY_PATH />
+    <MAP_FIELD_VARIABLE_TYPE>Standard</MAP_FIELD_VARIABLE_TYPE>
+    <MAP_FIELD_VARIABLE_NAME />
+  </MAP_FIELD>
+  <MAP_FIELD>
+    <MAP_FIELD_ID>2</MAP_FIELD_ID>
+    <MAP_FIELD_NAME>TestIdList</MAP_FIELD_NAME>
+    <MAP_FIELD_DESCRIPTION />
+    <MAP_FIELD_ORDER>2</MAP_FIELD_ORDER>
+    <MAP_FIELD_INPUT_PATH />
+    <MAP_FIELD_OUTPUT_PATH>lims_results/result/@test_id</MAP_FIELD_OUTPUT_PATH>
+    <MAP_FIELD_XML_GROUP />
+    <MAP_FIELD_TAG />
+    <MAP_FIELD_INPUT_DISPLAY_PATH />
+    <MAP_FIELD_OUTPUT_DISPLAY_PATH />
+    <MAP_FIELD_VARIABLE_TYPE>Variable</MAP_FIELD_VARIABLE_TYPE>
+    <MAP_FIELD_VARIABLE_NAME>TestIdList</MAP_FIELD_VARIABLE_NAME>
+  </MAP_FIELD>
+  <MAP_FIELD>
+    <MAP_FIELD_ID>3</MAP_FIELD_ID>
+    <MAP_FIELD_NAME>CompNameList</MAP_FIELD_NAME>
+    <MAP_FIELD_DESCRIPTION />
+    <MAP_FIELD_ORDER>3</MAP_FIELD_ORDER>
+    <MAP_FIELD_INPUT_PATH />
+    <MAP_FIELD_OUTPUT_PATH>lims_results/result/@result_name</MAP_FIELD_OUTPUT_PATH>
+    <MAP_FIELD_XML_GROUP />
+    <MAP_FIELD_TAG />
+    <MAP_FIELD_INPUT_DISPLAY_PATH />
+    <MAP_FIELD_OUTPUT_DISPLAY_PATH />
+    <MAP_FIELD_VARIABLE_TYPE>Variable</MAP_FIELD_VARIABLE_TYPE>
+    <MAP_FIELD_VARIABLE_NAME>CompNameList</MAP_FIELD_VARIABLE_NAME>
+  </MAP_FIELD>
+  <MAP_FIELD>
+    <MAP_FIELD_ID>4</MAP_FIELD_ID>
+    <MAP_FIELD_NAME>CompValueList</MAP_FIELD_NAME>
+    <MAP_FIELD_DESCRIPTION />
+    <MAP_FIELD_ORDER>4</MAP_FIELD_ORDER>
+    <MAP_FIELD_INPUT_PATH />
+    <MAP_FIELD_OUTPUT_PATH>lims_results/result</MAP_FIELD_OUTPUT_PATH>
+    <MAP_FIELD_XML_GROUP />
+    <MAP_FIELD_TAG />
+    <MAP_FIELD_INPUT_DISPLAY_PATH />
+    <MAP_FIELD_OUTPUT_DISPLAY_PATH />
+    <MAP_FIELD_VARIABLE_TYPE>Variable</MAP_FIELD_VARIABLE_TYPE>
+    <MAP_FIELD_VARIABLE_NAME>CompValueList</MAP_FIELD_VARIABLE_NAME>
+  </MAP_FIELD>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>1</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>RESTART</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM BookmarkSetAtStart, Start</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>21</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>1</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>2</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>44</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>2</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Start</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>3</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>BOOKMARK: SET AT END</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM BookmarkSetAtEnd End</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>103</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>3</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>End</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>4</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>CREATE LIST</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListCreateEmptyList, TestIdList</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>85</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>4</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdList</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>5</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>CREATE LIST</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListCreateEmptyList, CompNameList</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>85</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>5</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompNameList</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>6</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>CREATE LIST</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListCreateEmptyList, CompValueList</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>85</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>6</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValueList</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>7</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IMSetVariableToText, URLName, SourceFile</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>7</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>URLName = "SourceFile"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>8</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>8</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>InstNo = "Instrument_No"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>9</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>9</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>InstType = "Instrument_Type"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>10</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IMSetVariableToText, PreURL, PreURL</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>10</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>PreURL = "PreURL"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>11</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LOOK UP DATABASE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>108</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>11</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1> URL_Path, PreURL</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>12</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>12</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Inst_No = SourceObject</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>13</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>13</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Inst-Type = SourceObject</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>14</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LOOK UP DATABASE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>108</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>14</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Inst_Type,Inst-Type</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>15</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GO TO BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>45</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>15</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Start</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>16</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>44</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>16</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeDataStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>17</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>17</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeData = CopyBetweenBookmarks(Start,End)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>18</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GRID BUILD GRID FROM CSV STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM GridBuildFromCsvString, AllDataGrid, AllData, True, ,, , , True</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>94</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>18</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeDataGrid,WholeData,False,&lt;COMMA&gt;,False</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>19</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM GridGetRowCount, RowCount, AllDataGrid</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>19</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeRowCount = GetRowCount(WholeDataGrid)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>20</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>20</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeRowCountVar = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>21</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>21</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleCountVar = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>22</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>DO WHILE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>106</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>22</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsLess(WholeRowCountVar,WholeRowCount)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>23</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>23</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>HeadName = GetCell(WholeDataGrid,0,WholeRowCountVar)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>24</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>24</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>AreEqual(HeadName, "Acquire Date:")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>25</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>25</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleCountVar = Add(1,SampleCountVar)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>26</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>26</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>27</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>27</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeRowCountVar = Add(1,WholeRowCountVar)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>28</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END LOOP</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>16</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>28</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>29</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>29</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleCount = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>30</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>30</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleRowCount = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>31</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>31</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>BlankCount = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>32</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GO TO BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>45</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>32</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>WholeDataStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>33</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>BOOKMARK: SET AT START OF LINE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>105</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>33</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>DataLineStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>34</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GO TO BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM BookmarkSetAtNextLine, DataLineStart, DataLineStart</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>45</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>34</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>DataLineStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>35</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>BOOKMARK: SET AT START OF LINE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>105</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>35</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>AlldataStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>36</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>BOOKMARK: SET AFTER SKIPPING TO TEXT</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>102</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>36</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdLineEnd,AlldataStart,1, &lt;COMMA&gt;</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>37</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GO TO BOOKMARK</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>45</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>37</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>DataLineStart</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>38</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>MOVE LINES</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>1</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>38</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>7</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>39</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>START LOOP</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>14</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>39</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>40</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>START SELECTION AT CURRENT POSITION</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>22</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>40</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>41</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>STOP SELECTION AT EOL</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>5</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>41</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>42</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>42</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>AllData = TvarSelection</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>43</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GRID BUILD GRID FROM CSV STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM GridBuildFromCsvString, AllDataGrid, AllData, True, ,, , , True</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>94</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>43</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>AllDataGrid,AllData,False,&lt;COMMA&gt;,False</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>44</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>44</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestId_R = GetCell(AllDataGrid,0,0)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>45</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM TrimSpaces, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>45</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestId_R = TrimChars(TestId_R,&lt;SPACE&gt;)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>46</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM TrimSpaces, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>46</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestId_R = TrimChars(TestId_R,")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>47</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM TrimCharacters, TestId, "</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>47</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestId_R = TrimChars(TestId_R,&lt;SPACE&gt;)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>48</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>48</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsNumeric(TestId_R)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>49</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>49</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>BlankCount = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>50</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>50</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleRowCount = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>51</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>51</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestId = TestId_R</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>52</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM JoinText, URLPath, PreURL, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>52</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>URLPath = PreURL + TestId</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>53</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, TestIdList, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>53</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdList,TestId</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>54</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, TestIdList, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>54</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdList,TestId</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>55</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, TestIdList, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>55</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdList,TestId</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>56</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompNameList, URLName</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>56</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompNameList,URLName</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>57</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompNameList, CompName</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>57</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompNameList,InstNo</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>58</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompNameList, CompName</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>58</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompNameList,InstType</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>59</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompValueList, URLPath</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>59</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValueList,URLPath</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>60</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompValueList, CompValue</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>60</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValueList,Inst_No</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>61</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompValueList, CompValue</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>61</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValueList,Inst-Type</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>62</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>62</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>63</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>63</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsEmpty(TestId_R)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>64</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>64</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>BlankCount = Add(1, BlankCount)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>65</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>65</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>66</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM GridGetCell, CompValue, AllDataGrid, 7, SycleCount</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>66</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = GetCell(AllDataGrid,0,0)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>67</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>67</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Acquire, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>68</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>68</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Correction, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>69</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>69</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Analyst, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>70</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>70</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Elem, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>71</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>71</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Correction, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>72</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>72</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = TrimCharsAfterText(CompName,Method, True)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>73</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>73</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = RemoveChars(CompName,"1234567890")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>74</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>74</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = RemoveChars(CompName,"_")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>75</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>75</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsNotNumeric(CompName)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>76</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>76</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsNotEmpty(CompName)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>77</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM GridGetCell, CompValue, AllDataGrid, 7, SycleCount</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>77</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = GetCell(AllDataGrid,3,0)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>78</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM TrimCharacters, CompValue, "</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>78</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = TrimChars(CompValue,&lt;SPACE&gt;)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>79</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM TrimSpaces, CompValue</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>79</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = TrimChars(CompValue,")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>80</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LOOK UP DATABASE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>108</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>80</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>VALUE_0, CompValue</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>81</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM DoIfNotEmpty, NotEmptyTestId, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>81</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsNotEmpty(TestId)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>82</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM JoinText, CompName, CompName, _IR</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>82</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompName = CompName + "_IR"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>83</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LOOK UP DATABASE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>108</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>83</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Comp_Name, CompName</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>84</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM DoIfLessThan, CompValue&gt;0, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>84</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsLess(CompValue,"0")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>85</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IMSetVariableToText, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>85</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>86</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, CompValue&gt;0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>86</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>87</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM DoIfLessThan, CompValue&gt;0, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>87</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsEmpty(CompValue)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>88</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IMSetVariableToText, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>88</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>89</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, CompValue&gt;0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>89</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>90</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM DoIfLessThan, CompValue&gt;0, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>90</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Matches(CompValue,"-")</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>91</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IMSetVariableToText, CompValue, 0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>91</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValue = "0"</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>92</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, CompValue&gt;0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>92</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>93</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, CompValue&gt;0</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>93</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>94</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>94</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsLess(BlankCount,2)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>95</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>47</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>95</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>IsNotNumeric(CompName)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>96</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, TestIdList, TestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>96</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>TestIdList,TestId</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>97</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompNameList, CompName</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>97</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompNameList,CompName</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>98</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>LIST APPEND STRING</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM ListAppendString, CompValueList, CompValue</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>87</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>98</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>CompValueList,CompValue</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>99</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, NotEmptyTestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>99</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>100</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, NotEmptyTestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>100</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>101</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, NotEmptyTestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>101</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>102</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END IF</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, NotEmptyTestId</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>51</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>102</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>103</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>103</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>SampleRowCount = Add(1,SampleRowCount)</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>104</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>GET NEXT LINE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>13</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>104</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>105</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>EXIT LOOP AT TEXT</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION>SM-IM EndDo, SampSycle</RUN_COMMAND_DESCRIPTION>
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>12</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>105</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>Color Legend</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>106</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>END LOOP</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>16</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>106</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1 />
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+</TransformationData>
